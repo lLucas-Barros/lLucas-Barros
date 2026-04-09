@@ -101,9 +101,6 @@ Cada projeto que finalizo vive aqui: com README, deploy funcionando e código ab
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lLucas-Barros&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&count_private=true" />
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLucas-Barros&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" />
 
 </div>
 
