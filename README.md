@@ -75,7 +75,7 @@ Cada projeto que finalizo vive aqui: com README, deploy funcionando e código ab
 
 <div align="center">
 
-## 🎯 Objetivo de 2025
+## 🎯 Objetivo de 2026
 
 <br/>
 
