@@ -95,10 +95,6 @@ Estudo de forma estruturada, com ênfase em boas práticas, código limpo e arqu
 
 ## 📊 Estatísticas
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lLucas-Barros&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLucas-Barros&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
 
 <img src="https://streak-stats.demolab.com?user=lLucas-Barros&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" />
 
