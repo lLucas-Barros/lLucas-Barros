@@ -1,48 +1,128 @@
-#🧑‍💻Lucas Barros 
+<div align="center">
 
-Tenho 26 anos e estou em transição de carreira para o desenvolvimento de software.
-Estudo de forma intensiva e estruturada — do JavaScript ao deploy em cloud —
-com foco em construir produtos reais do início ao fim.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=120&section=header&text=Lucas%20Barros&fontSize=42&fontColor=f8f8f2&fontAlignY=65&desc=Desenvolvedor%20Full-Stack%20em%20Formação&descAlignY=85&descSize=16&descColor=bd93f9" />
 
-Atualmente percorrendo um plano de estudos que vai do front-end ao full-stack,
-mobile e integração com IA. Cada projeto que finalizo vive aqui, com README,
-deploy funcionando e código aberto.
+</div>
 
----
+<br/>
 
-**Aprendendo agora**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+Tenho 26 anos e estou em **transição de carreira** para o desenvolvimento de software.<br/>
+Estudo de forma intensiva e estruturada — do JavaScript ao deploy em cloud —<br/>
+com foco em construir **produtos reais do início ao fim**.<br/><br/>
+Percorrendo um plano de estudos que vai do front-end ao full-stack, mobile e IA.<br/>
+Cada projeto que finalizo vive aqui: com README, deploy funcionando e código aberto.
 
-**Próximo passo**
+<br/>
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> 🟢 &nbsp;**Disponível para oportunidades** — aberto a freelas, projetos e posições júnior em produto
+
+</div>
 
 ---
 
-**Objetivo de 2025:** publicar meu primeiro app na Play Store e lançar um SaaS B2B funcional.
+<div align="center">
+
+## 🛠️ Stack em aprendizado
+
+<br/>
+
+**Fundamentos**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=4" />
+
+<br/><br/>
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=4" />
+
+<br/><br/>
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi&theme=dark&perline=4" />
+
+<br/><br/>
+
+**Banco de dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,prisma,supabase&theme=dark&perline=4" />
+
+<br/><br/>
+
+**Próximo passo — Mobile e IA**
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio,python,docker&theme=dark&perline=4" />
+
+<br/>
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+<br/><br/>
+
+**DevOps e ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux&theme=dark&perline=6" />
+
+</div>
 
 ---
-## Contato
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+<div align="center">
 
-[Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+## 🎯 Objetivo de 2025
 
-[Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
+<br/>
+
+| Meta | Status |
+|------|--------|
+| Dominar JavaScript e TypeScript na prática | 🔄 Em andamento |
+| Construir e deployar API REST com NestJS | 📋 Planejado |
+| Publicar app mobile na Play Store | 📋 Planejado |
+| Lançar um SaaS B2B funcional | 📋 Planejado |
+| Integrar IA em produto real | 📋 Planejado |
+
+</div>
 
 ---
 
-<sub>Construindo em público · Aprendendo fazendo · Aberto a oportunidades</sub>
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lLucas-Barros&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" />
+## 📊 Estatísticas
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=lLucas-Barros&theme=dracula&hide_border=true&background=282a36&stroke=6272a4&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=f8f8f2&dates=6272a4" />
+
+<br/><br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lLucas-Barros&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&count_private=true" />
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLucas-Barros&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Contato
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barros-71067921a)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_b4rros_)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgleyfson59@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=80&section=footer" />
+
+</div>
